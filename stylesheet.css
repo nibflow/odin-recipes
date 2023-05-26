@@ -1,0 +1,34 @@
+body.class-for-body {
+    background-color: #f9ab53c7;
+    text-align: center;
+}
+
+
+h1.index-title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #94167F;
+}
+
+p button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: #E93479;
+    color: #FFFFFF;
+}
+
+p button:hover {
+    background-color: #f62e9563;
+}
+
+body.body-for-muffin {
+    background-color: #E93479;
+}
+
+h1.muffin-title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #F9AC53;
+}
+
+
